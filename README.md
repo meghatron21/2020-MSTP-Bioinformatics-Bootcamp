@@ -1,4 +1,4 @@
-# 2020-MSTP-Bioinformatics-Bootcamp
+# 2020 MSTP Bioinformatics Bootcamp
 Website for 2020 MSTP Bioinformatics Bootcamp
 
 ## Course Information
