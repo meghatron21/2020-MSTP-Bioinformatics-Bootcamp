@@ -14,6 +14,13 @@ Please email us with any questions or concerns!
 
 ## Syllabus
 
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
 **Day 1 - 4**: Introduction to RNA-seq
 
 **Day 5**: Introduction to single-cell RNA-seq
