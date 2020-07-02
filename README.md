@@ -17,7 +17,7 @@ Please email us with any questions or concerns!
 
 | Day  | Date | Topic | Links | Homework |
 | ------------- | ------------- |------------- |------------- |------------- |
-| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | 
+| 0 | Before 07/06/2020  | Setup  | [link to Google!](http://google.com) |Content Cell  | 
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |Content Cell  | 
 
 
