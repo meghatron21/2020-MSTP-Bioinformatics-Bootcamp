@@ -17,7 +17,7 @@ Please email us with any questions or concerns!
 
 | Day  | Date | Topic | Links | Homework |
 | ------------- | ------------- |------------- |------------- |------------- |
-| 0 | Before 07/06/2020  | Setup  | [link to Google!](http://google.com) |Content Cell  | 
+| 0 | Before 07/06/2020  | Setup  | [Day_0](https://github.com/meghanasp21/2020-MSTP-Bioinformatics-Bootcamp/tree/master/Day_0) | | 
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |Content Cell  | 
 
 
