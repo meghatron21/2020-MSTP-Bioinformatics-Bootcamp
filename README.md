@@ -17,7 +17,7 @@ Please email us with any questions or concerns!
 
 | Day  | Date | Topic | Links | Homework |
 | ------------- | ------------- |------------- |------------- |------------- |
-| 0 | Before 07/06/2020  | Setup  | [Day_0](https://github.com/meghanasp21/2020-MSTP-Bioinformatics-Bootcamp/tree/master/Day_0) | [Generate Keys](https://github.com/meghanasp21/2020-MSTP-Bioinformatics-Bootcamp/tree/master/Day_0)| 
+| 0 | Before 07/06/2020  | Setup  | [Day_0](https://github.com/meghanasp21/2020-MSTP-Bioinformatics-Bootcamp/tree/master/Day_0) | [Generate Keys](https://github.com/meghanasp21/2020-MSTP-Bioinformatics-Bootcamp/tree/master/Day_0)<br />[Installations](https://github.com/meghanasp21/2020-MSTP-Bioinformatics-Bootcamp/tree/master/Day_0)| 
 | 1  | 07/06/2020  | **Module 1**: Unix, TSCC, Installations  |   | | 
 | 2  | 07/07/2020  | **Module 2**: RNA Alignment (STAR, fastqc)  |   | | 
 | 3  | 07/08/2020  | **Module 3**: RNA Quantification (featureCounts, samtools, IGV)  |   | |
