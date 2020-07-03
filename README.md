@@ -22,5 +22,5 @@ Please email us with any questions or concerns!
 | 2  | 07/07/2020  | **Module 2**: RNA Alignment (STAR, fastqc)  | [Day_2](https://github.com/meghanasp21/2020-MSTP-Bioinformatics-Bootcamp/tree/master/Day_2)   | | 
 | 3  | 07/08/2020  | **Module 3**: RNA Quantification (featureCounts, samtools, IGV)  |   | |
 | 4  | 07/09/2020  | **Module 4**: RNA Analysis (DESeq2, RPKM, seaborn)  |   | |
-| 5  | 07/10/2020  | **Module 5**: Other useful Bioinformatic Tools (GenePattern, ATAC-Seq)  |   | |
+| 5  | 07/10/2020  | **Module 5**: GenePattern Workshop  |   | |
 
