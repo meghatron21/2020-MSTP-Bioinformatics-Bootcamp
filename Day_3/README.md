@@ -1,11 +1,11 @@
-# Bootcamp Day 1
+# Bootcamp Day 3
 
-## Goals for Day 1:
-Cover RNA-seq basics<br>
-Cover basic linux operations<br>
-Resolve any issues with software installation on TSCC<br>
-Cover jupyter notebooks and tunneling<br>
-Learn about FASTQ format<br>
+## Goals for Day 3:
+Use featureCounts to calculate RNAseq counts<br>
+Convert SAM to BAM<br>
+Sort BAM files using samtools<br>
+Index BAM files using samtools<br>
+Using IGV<br>
 
 ## Slides for Day 3:
 https://docs.google.com/presentation/d/1d41563ePpVBCw3JEimd9uVsansjhEb080yHDCMDDsgo/edit?usp=sharing
