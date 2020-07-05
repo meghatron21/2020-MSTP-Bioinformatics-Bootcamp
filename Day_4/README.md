@@ -1,4 +1,4 @@
-# Bootcamp Day 1
+# Bootcamp Day 4
 
 ## Goals for Day 4:
 Calculate RPKM from counts data<br>
