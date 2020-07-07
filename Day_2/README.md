@@ -2,6 +2,8 @@
 
 ## Goals for Day 2:
 Review Hangauer et al.<br>
+Understand RNA-seq pipeline <br>
+Learn how to read a fastqc report<br>
 Cover scripting and cluster jobs<br>
 Generate STAR Index<br>
 Align reads to genome using STAR<br>
