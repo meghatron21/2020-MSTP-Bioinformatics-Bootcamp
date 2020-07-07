@@ -5,6 +5,7 @@ Review Hangauer et al.<br>
 Cover scripting and cluster jobs<br>
 Generate STAR Index<br>
 Align reads to genome using STAR<br>
+Learn how to read a fastqc report<br>
 
 
 ## Goals for Day 2:
