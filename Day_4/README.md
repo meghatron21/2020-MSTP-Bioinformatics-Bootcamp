@@ -5,6 +5,7 @@ Calculate RPKM from counts data<br>
 Distinguish TPM, RPKM, FPKM<br>
 DESEq2 Analysis<br>
 Identification of significant differentially expressed genes<br>
+Pathway Enrichment Analysis<br>
 
 ## Slides for Day 4:
 https://docs.google.com/presentation/d/1UxyV4prTwt6OuUf9BSFZIuJ7IDI5Of_dtmpaKJ_LnNY/edit?usp=sharing
