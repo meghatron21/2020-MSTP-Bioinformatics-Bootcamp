@@ -24,3 +24,16 @@ Please email us with any questions or concerns!
 | 4  | 07/09/2020  | **Module 4**: RNA Analysis (DESeq2, RPKM, seaborn)  | [Day_4](https://github.com/meghanasp21/2020-MSTP-Bioinformatics-Bootcamp/tree/master/Day_4)  |[GenePattern Setup](http://localhost:8888/notebooks/Desktop/2020-MSTP-Bioinformatics-Bootcamp/Day_5/Prerequisites%20for%20GenePattern%20workshop.ipynb) |
 | 5  | 07/10/2020  | **Module 5**: GenePattern Workshop  |   | |
 
+## Bioinformatics Resources
+
+### Online resources:
+[Biology Meets Programming:Bioinformatics for Beginners](https://www.coursera.org/learn/bioinformatics)
+[Bioinformatics Algorithms: An Active Learning Approach (YouTube)](https://www.youtube.com/c/bioinfalgorithms/featured)
+
+### UCSD Courses:
+**BIOM262 Quantitative Methods/Genetics** (several notebooks were taken from this course and I highly recommend it if you want an introduction to bioinformatics methods)<br>
+BNFO286 Network Biology & Biomedicine<br>
+CSE258 Recommender Systems & Web Mining<br>
+MED278 Cancer Genomics Journal Club<br>
+
+
