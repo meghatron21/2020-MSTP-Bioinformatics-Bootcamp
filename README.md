@@ -27,13 +27,13 @@ Please email us with any questions or concerns!
 ## Bioinformatics Resources
 
 ### Online resources:
-[Biology Meets Programming:Bioinformatics for Beginners](https://www.coursera.org/learn/bioinformatics)
-[Bioinformatics Algorithms: An Active Learning Approach (YouTube)](https://www.youtube.com/c/bioinfalgorithms/featured)
+[Biology Meets Programming:Bioinformatics for Beginners](https://www.coursera.org/learn/bioinformatics)<br>
+[Bioinformatics Algorithms: An Active Learning Approach (YouTube)](https://www.youtube.com/c/bioinfalgorithms/featured)<br>
 
 ### UCSD Courses:
 **BIOM262 Quantitative Methods/Genetics** (several notebooks were taken from this course and I highly recommend it if you want an introduction to bioinformatics methods)<br>
-BNFO286 Network Biology & Biomedicine<br>
-CSE258 Recommender Systems & Web Mining<br>
-MED278 Cancer Genomics Journal Club<br>
+**BNFO286 Network Biology & Biomedicine**<br>
+**CSE258 Recommender Systems & Web Mining**<br>
+**MED278 Cancer Genomics Journal Club**<br>
 
 
