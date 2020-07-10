@@ -1,14 +1,17 @@
-# Bootcamp Day 4
+# Bootcamp Day 5
 
-## Goals for Day 4:
-Calculate RPKM from counts data<br>
-Distinguish TPM, RPKM, FPKM<br>
-DESEq2 Analysis<br>
-Identification of significant differentially expressed genes<br>
-Pathway Enrichment Analysis<br>
+## Goals for Day 5:
+Introduce GenePattern Environment<br>
+Learn how to load and run GenePattern Notebooks<br>
+Introduction to Seurat and Conos<br>
+Introduction to GenePattern Resources<br>
 
 ## Slides for Day 4:
-https://docs.google.com/presentation/d/1UxyV4prTwt6OuUf9BSFZIuJ7IDI5Of_dtmpaKJ_LnNY/edit?usp=sharing
+**Intro**: https://drive.google.com/file/d/1Y42wYi4X2Grw7IUv3hWWnW0ddJYJnn2X/view?usp=sharing<br>
+**Closing** https://drive.google.com/file/d/1nJWPOeXC-q0izTrouT01PBjRYcR8xx_N/view?usp=sharing<br>
+
+**GenePattern Help**: https://genepattern.org/help<br>
+**GenePattern Mailing List**: https://www.genepattern.org/contact<br>
 
 Please email me (mpagadal@health.ucsd.edu) with any questions or concerns!
 
